@@ -1,0 +1,4 @@
+[Project]
+Name=openglYUV
+Manager=KDevCMakeManager
+VersionControl=kdevgit
